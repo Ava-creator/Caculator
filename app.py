@@ -1,5 +1,5 @@
 import streamlit as st
-
+curl -LsSf https
 
 st.title(" 🤑Ava's story Generator")
 
